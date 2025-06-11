@@ -36,3 +36,4 @@ To persist messages or handle authentication, you can integrate a database like 
 This stack—Node.js, React, and Socket.IO—is lightweight yet powerful for building modern, real-time applications.
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/d229ca5b-30ed-4a21-b692-3450e959b1c5)
